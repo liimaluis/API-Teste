@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rm8/QRMx3m9SPOyTRXhOLrzxofO5Ct+bAWC2jGdSXKY=",
+  "Source": "WebApplicationTesteBackend",
+  "BasePath": "_content/WebApplicationTesteBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
